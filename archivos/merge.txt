@@ -1,4 +1,5 @@
 Jhogert David Bita Aldana.
 19.
 Aprender sobre la programacion orientada a objetos.
-Porque la carpeta ya no esta vacia
+Porque la carpeta ya no esta vacia.
+Porque se pueden generar errores al modificar los archivos por sitios diferentes, es recomendable siempre hacerlo desde el repositorio clonado en el computador y no directamente desde GitHub.
